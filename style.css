@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+
+.sidebar{
+    height: 150vh;
+    width: 300px;
+    background-color: rgba(231,229,224,0.434);
+
+}
+
+.good{
+    display: flex;
+               justify-content: space-evenly;
+}
+
+.best{
+    display: flex;
+               justify-content: space-evenly;
+}
+
+.mainbar{
+    height: 500px;
+    width: 900px;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.SSoo{
+    display: flex;
+               justify-content: space-evenly;
+}
+
